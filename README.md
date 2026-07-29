@@ -14,6 +14,10 @@ Sourced from the PlantVillage dataset (Kaggle), filtered to Potato Early Blight 
 - Test accuracy: 94.9%
 - Precision/Recall balanced across both classes (see confusion matrix)
 
+## Live App
+[Try the app here](https://potato-blight-app-sp6k3ucnwqzlqrjfnrra8j.streamlit.app/)
+
 ## Contributors
 - [TOM PRECIOUS VICTOR] — [23/EG/CE/024] — [precioustom111-sudo]
-- (add teammates here)
+- [JESSIE BASSEY ETETE] - [23/EG/CE/044] - [basseyjessie16-maker]
+- [UKO GOD'SWILL DENIS] - [23/EG/CE/034] - [godswilldenis04-collab]
