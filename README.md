@@ -19,6 +19,6 @@ Sourced from the PlantVillage dataset (Kaggle), filtered to Potato Early Blight 
 
 ## Contributors
 - [TOM PRECIOUS VICTOR] — [23/EG/CE/024] — [precioustom111-sudo]
-- [JESSIE BASSEY ETETE] - [23/EG/CE/044] - [basseyjessie16-maker]
+-  [23/EG/CE/044] - [basseyjessie16-maker]
 - [UKO GOD'SWILL DENIS] - [23/EG/CE/034] - [godswilldenis04-collab]
 - [UDOIBE IDARESIT FRANCIS] - [23/EG/CE/104] - [udoibe idaresit francis]
