@@ -28,3 +28,4 @@ This project uses a CNN (MobileNetV2 transfer learning) to classify potato leaf 
 - [UDOIBE IDARESIT FRANCIS] - [23/EG/CE/104] - [udoibe idaresit francis]
 - [JOHN ETIUWEM VICTOR] - [23/EG/CE/074] -[Etiuwem]
 - [UKPONG GEORGE RICHARD] — [23/EG/CE/014] — [richard5819]
+- [SYLVESTER DANIEL NDIFREKE]-[23/EG/CE/004]-[Slydee23812]
