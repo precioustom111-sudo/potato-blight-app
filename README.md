@@ -1,6 +1,6 @@
 # Potato Blight Classifier
 
-A CNN-based image classifier that distinguishes Potato Early Blight from Potato Late Blight, built with MobileNetV2 transfer learning and deployed via Streamlit.
+
 
 ## Dataset
 Sourced from the PlantVillage dataset (Kaggle), filtered to Potato Early Blight and Late Blight classes.
